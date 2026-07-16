@@ -15,3 +15,4 @@ yield return new WaitForSeconds(0.01f);
 }    
 Debug.Log("хахахаххаха посхалко"); 
 }
+великий код
